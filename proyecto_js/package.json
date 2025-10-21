@@ -1,0 +1,12 @@
+{
+  "name": "proyecto_js",
+  "version": "1.0.0",
+  "description": "Pirámide de pruebas completa en JavaScript",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "commonjs"
+}
