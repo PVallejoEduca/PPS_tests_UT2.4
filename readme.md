@@ -1,3 +1,4 @@
+# Cada proyecto tiene su propio readme.md para ejecutarlo.
 ##  Tipos de Pruebas en el Proyecto
 
 | Nivel | Archivo Python | Archivo JavaScript | Qué comprueba | Cuándo se ejecuta | Objetivo educativo |
