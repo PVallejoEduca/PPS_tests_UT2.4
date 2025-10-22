@@ -3,6 +3,9 @@ python -m venv venv
 source venv/bin/activate      # (en Windows: venv\Scripts\activate)
 pip install -r requirements.txt
 
+# En Windows, abre powershell como admin e instala
+choco install make -y
+
 # Ejecutar los tests
 make test
 
